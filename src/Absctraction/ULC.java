@@ -8,5 +8,5 @@ public class ULC {
 		c.m3();
 		
 	}
-system.out.println(" ");
+
 }
